@@ -1,11 +1,15 @@
 # AI-Powered-Global-Cyber-Threat-Intelligence-Risk-Analytics
 
 # Project Folder Structure
+
+```text
 Cyber-Threat-Analytics/
 │
 ├── 01_Raw_Data/
 │   └── Global_Cybersecurity_Threats.csv
-│
+│   └── Data Quality Audit.csv
+|   └── Cleaning log.csv
+|
 ├── 02_Data_Dictionary/
 │   └── Data_Dictionary.xlsx
 │
@@ -31,3 +35,4 @@ Cyber-Threat-Analytics/
 │   └── CyberThreatDashboard.pbix
 │
 └── README.md
+```
